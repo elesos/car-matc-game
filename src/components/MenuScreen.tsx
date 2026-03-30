@@ -14,7 +14,7 @@ export function MenuScreen({ onStart }: MenuScreenProps) {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen gap-8 p-6">
       <div className="text-center">
-        <h1 className="text-5xl font-bold text-white mb-2">🚗 Car Match 3</h1>
+        <h1 className="text-5xl font-bold text-white mb-2">🚗 Car Matc Game</h1>
         <p className="text-gray-400 text-lg">找到三个相同的汽车品牌消除它们！</p>
       </div>
 

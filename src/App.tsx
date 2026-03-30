@@ -47,7 +47,7 @@ export default function App() {
           重开
         </button>
         <div className="text-center">
-          <div className="text-white font-bold text-lg">🚗 Car Match 3</div>
+          <div className="text-white font-bold text-lg">🚗 Car Matc Game</div>
           <div className="text-gray-400 text-xs">
             {difficulty === 'easy' ? '简单' : difficulty === 'normal' ? '普通' : '困难'}
           </div>

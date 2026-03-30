@@ -1,4 +1,4 @@
-// TypeScript types for car-match-3
+// TypeScript types for car-matc-game
 
 export type Difficulty = 'easy' | 'normal' | 'hard'
 

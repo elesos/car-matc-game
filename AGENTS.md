@@ -1,4 +1,4 @@
-# car-match-3
+# car-matc-game
 
 ## 项目概述
 
@@ -14,7 +14,7 @@
 ## 目录结构
 
 ```
-car-match-3/
+car-matc-game/
 ├── public/
 │   └── logos/          # 汽车品牌 Logo PNG 图片（48 个品牌）
 ├── src/
